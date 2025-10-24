@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  "Enhances" the data websites collect on you with noise, including randomized user-agents
-// @author       You
+// @author       Paul Michael Tidwell
 // @match        *://*/*
 // @grant        unsafeWindow
 // ==/UserScript==
